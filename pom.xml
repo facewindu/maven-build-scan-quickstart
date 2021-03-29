@@ -3,10 +3,10 @@
   <groupId>com.gradle</groupId>
   <artifactId>maven-build-scan-extension-sample</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <scm>
     <developerConnection>scm:git:https://github.com/facewindu/maven-build-scan-quickstart.git</developerConnection>
-    <tag>maven-build-scan-extension-sample-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   
   <properties>
